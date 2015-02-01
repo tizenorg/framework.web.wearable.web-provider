@@ -1,0 +1,3 @@
+#OptionsTizen.cmake
+
+#ADD_DEFINITIONS(-DENABLE_WEB_PROVIDER_LOAD=1)

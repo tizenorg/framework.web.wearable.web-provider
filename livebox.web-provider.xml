@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest xmlns="http://tizen.org/ns/packages" package="livebox.web-provider" version="1.0" install-location="internal-only">
+	<label>Web Dynamic Box Provider</label>
+	<author email="yunchan.cho@samsung.com" href="www.samsung.com">Yunchan Cho</author>
+	<description>Web Dynamic Box Provider Executable</description>
+	<ui-application appid="dbox.web-provider" exec="/usr/apps/livebox.web-provider/bin/web-provider" nodisplay="true" multiple="false" type="capp" taskmanage="false">
+		<icon>livebox.web-provider.png</icon>
+		<label>Web Dynamic Box Provider</label>
+		<label xml:lang="en-us">Web Dynamic Box Provider</label>
+        <application-service>
+            <operation name="http://tizen.org/appcontrol/operation/dynamicbox/web/update"/>
+            <uri name="box-service"/>
+        </application-service>
+        <application-service>
+            <operation name="http://tizen.org/appcontrol/operation/dynamicbox/web/remove"/>
+        </application-service>
+	</ui-application>
+</manifest>

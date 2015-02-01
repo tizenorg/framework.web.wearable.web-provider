@@ -1,0 +1,21 @@
+msgid "IDS_ST_BODY_12_HOURS"
+msgstr "12小时"
+
+msgid "IDS_ST_BUTTON_CANCEL"
+msgstr "取消"
+
+msgid "IDS_BR_OPT_NEVER"
+msgstr "从不"
+
+msgid "IDS_ST_BODY_6_HOURS_TMO"
+msgstr "6小时"
+
+msgid "IDS_ST_BODY_1_HOUR"
+msgstr "1小时"
+
+msgid "IDS_ST_BODY_3HOURS"
+msgstr "3 小时"
+
+msgid "IDS_BR_HEADER_AUTO_REFRESH"
+msgstr "自动刷新"
+

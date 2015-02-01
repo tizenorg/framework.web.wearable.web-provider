@@ -1,0 +1,21 @@
+msgid "IDS_ST_BODY_12_HOURS"
+msgstr "12 stundas"
+
+msgid "IDS_ST_BUTTON_CANCEL"
+msgstr "Atcelt"
+
+msgid "IDS_BR_OPT_NEVER"
+msgstr "Nekad"
+
+msgid "IDS_ST_BODY_6_HOURS_TMO"
+msgstr "6 stundas"
+
+msgid "IDS_ST_BODY_1_HOUR"
+msgstr "1 stunda"
+
+msgid "IDS_ST_BODY_3HOURS"
+msgstr "3 stundas"
+
+msgid "IDS_BR_HEADER_AUTO_REFRESH"
+msgstr "Automātiskā atsvaidzināšana"
+

@@ -1,0 +1,21 @@
+msgid "IDS_ST_BODY_12_HOURS"
+msgstr "12時間"
+
+msgid "IDS_ST_BUTTON_CANCEL"
+msgstr "キャンセル"
+
+msgid "IDS_BR_OPT_NEVER"
+msgstr "なし"
+
+msgid "IDS_ST_BODY_6_HOURS_TMO"
+msgstr "6時間"
+
+msgid "IDS_ST_BODY_1_HOUR"
+msgstr "1時間"
+
+msgid "IDS_ST_BODY_3HOURS"
+msgstr "3時間"
+
+msgid "IDS_BR_HEADER_AUTO_REFRESH"
+msgstr "自動更新"
+

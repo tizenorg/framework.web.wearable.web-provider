@@ -1,0 +1,21 @@
+msgid "IDS_ST_BODY_12_HOURS"
+msgstr "12 soat"
+
+msgid "IDS_ST_BUTTON_CANCEL"
+msgstr "Bekor q."
+
+msgid "IDS_BR_OPT_NEVER"
+msgstr "Hech qachon"
+
+msgid "IDS_ST_BODY_6_HOURS_TMO"
+msgstr "6 saot"
+
+msgid "IDS_ST_BODY_1_HOUR"
+msgstr "1 soat"
+
+msgid "IDS_ST_BODY_3HOURS"
+msgstr "3 soat"
+
+msgid "IDS_BR_HEADER_AUTO_REFRESH"
+msgstr "Avtomatik yangilash"
+

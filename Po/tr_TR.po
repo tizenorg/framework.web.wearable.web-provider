@@ -1,0 +1,21 @@
+msgid "IDS_ST_BODY_12_HOURS"
+msgstr "12 saat"
+
+msgid "IDS_ST_BUTTON_CANCEL"
+msgstr "İptal"
+
+msgid "IDS_BR_OPT_NEVER"
+msgstr "Hiçbir zaman"
+
+msgid "IDS_ST_BODY_6_HOURS_TMO"
+msgstr "6 saat"
+
+msgid "IDS_ST_BODY_1_HOUR"
+msgstr "1 saat"
+
+msgid "IDS_ST_BODY_3HOURS"
+msgstr "3 saat"
+
+msgid "IDS_BR_HEADER_AUTO_REFRESH"
+msgstr "Otomatik yenileme"
+

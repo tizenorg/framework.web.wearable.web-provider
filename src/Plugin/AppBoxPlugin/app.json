@@ -1,0 +1,5 @@
+{
+     "type" : "app",
+     "path" : "/usr/lib/web-provider/libweb-provider-plugin-app.so",
+     "supported_size" : ["1x1","2x1","2x2"]
+}

@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: web-provider
+Description: web-provider library
+Version: @PROJECT_VERSION@
+Requires: db-util glib-2.0 json-glib-1.0 ecore ecore-evas evas eina provider ewebkit2 dlog
+Libs: -lweb-provider-api -lweb-provider-core -L${libdir}
+Cflags: -I${includedir}/web-provider -I${includedir}/web-provider/API -I${includedir}/web-provider/Core -I${includedir}/web-provider/Plugin
