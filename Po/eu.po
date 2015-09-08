@@ -1,0 +1,21 @@
+msgid "IDS_ST_BODY_12_HOURS"
+msgstr "12 ordu"
+
+msgid "IDS_ST_BUTTON_CANCEL"
+msgstr "Ezeztatu"
+
+msgid "IDS_BR_OPT_NEVER"
+msgstr "Inoiz ez"
+
+msgid "IDS_ST_BODY_6_HOURS_TMO"
+msgstr "6 ordu"
+
+msgid "IDS_ST_BODY_1_HOUR"
+msgstr "Ordu 1"
+
+msgid "IDS_ST_BODY_3HOURS"
+msgstr "3 ordu"
+
+msgid "IDS_BR_HEADER_AUTO_REFRESH"
+msgstr "Freskatu automatikoki"
+

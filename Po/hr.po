@@ -1,0 +1,21 @@
+msgid "IDS_ST_BODY_12_HOURS"
+msgstr "12 sati"
+
+msgid "IDS_ST_BUTTON_CANCEL"
+msgstr "Prekid"
+
+msgid "IDS_BR_OPT_NEVER"
+msgstr "Nikad"
+
+msgid "IDS_ST_BODY_6_HOURS_TMO"
+msgstr "6 sati"
+
+msgid "IDS_ST_BODY_1_HOUR"
+msgstr "1 sat"
+
+msgid "IDS_ST_BODY_3HOURS"
+msgstr "3 sata"
+
+msgid "IDS_BR_HEADER_AUTO_REFRESH"
+msgstr "Automatsko aktualiziranje"
+

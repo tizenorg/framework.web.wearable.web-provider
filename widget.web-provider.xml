@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest xmlns="http://tizen.org/ns/packages" package="widget.web-provider" version="1.0" install-location="internal-only">
+	<label>Web Widget Provider</label>
+	<author email="yunchan.cho@samsung.com" href="www.samsung.com">Yunchan Cho</author>
+	<description>Web Widget Provider Executable</description>
+	<ui-application appid="widget.web-provider" exec="/usr/apps/widget.web-provider/bin/web-provider" nodisplay="true" multiple="false" type="capp" taskmanage="false">
+		<icon>widget.web-provider.png</icon>
+		<label>Web Widget Provider</label>
+		<label xml:lang="en-us">Web Widget Provider</label>
+        <application-service>
+            <operation name="http://tizen.org/appcontrol/operation/dynamicbox/web/update"/>
+            <uri name="box-service"/>
+        </application-service>
+        <application-service>
+            <operation name="http://tizen.org/appcontrol/operation/dynamicbox/web/remove"/>
+        </application-service>
+	</ui-application>
+</manifest>

@@ -1,0 +1,16 @@
+<manifest>
+    <!-- web provider label -->
+    <define>
+        <domain name="widget.web-provider"/>
+        <provide>
+            <label name="widget.web-provider::db" />
+        </provide>
+    </define>
+    <assign>
+        <filesystem path="/usr/lib/libweb-provider*.so*" label="_" />
+        <filesystem path="/usr/lib/web-provider/libweb-provider*.so*" label="_" />
+    </assign>
+    <request>
+        <domain name="widget.web-provider" />
+    </request>
+</manifest>

@@ -1,0 +1,21 @@
+msgid "IDS_ST_BODY_12_HOURS"
+msgstr "12 hodín"
+
+msgid "IDS_ST_BUTTON_CANCEL"
+msgstr "Zrušiť"
+
+msgid "IDS_BR_OPT_NEVER"
+msgstr "Nikdy"
+
+msgid "IDS_ST_BODY_6_HOURS_TMO"
+msgstr "6 hodín"
+
+msgid "IDS_ST_BODY_1_HOUR"
+msgstr "1 hodina"
+
+msgid "IDS_ST_BODY_3HOURS"
+msgstr "3 hodiny"
+
+msgid "IDS_BR_HEADER_AUTO_REFRESH"
+msgstr "Automatické obnovenie"
+

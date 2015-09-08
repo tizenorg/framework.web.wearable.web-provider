@@ -1,0 +1,21 @@
+msgid "IDS_ST_BODY_12_HOURS"
+msgstr "12 საათი"
+
+msgid "IDS_ST_BUTTON_CANCEL"
+msgstr "გაუქმება"
+
+msgid "IDS_BR_OPT_NEVER"
+msgstr "არასოდეს"
+
+msgid "IDS_ST_BODY_6_HOURS_TMO"
+msgstr "6 საათი"
+
+msgid "IDS_ST_BODY_1_HOUR"
+msgstr "1 საათი"
+
+msgid "IDS_ST_BODY_3HOURS"
+msgstr "3 საათი"
+
+msgid "IDS_BR_HEADER_AUTO_REFRESH"
+msgstr "ავტომატური განახლება"
+

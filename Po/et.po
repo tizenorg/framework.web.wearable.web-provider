@@ -1,0 +1,21 @@
+msgid "IDS_ST_BODY_12_HOURS"
+msgstr "12 tundi"
+
+msgid "IDS_ST_BUTTON_CANCEL"
+msgstr "Tühista"
+
+msgid "IDS_BR_OPT_NEVER"
+msgstr "Mitte kunagi"
+
+msgid "IDS_ST_BODY_6_HOURS_TMO"
+msgstr "6 tundi"
+
+msgid "IDS_ST_BODY_1_HOUR"
+msgstr "1 tund"
+
+msgid "IDS_ST_BODY_3HOURS"
+msgstr "3 tundi"
+
+msgid "IDS_BR_HEADER_AUTO_REFRESH"
+msgstr "Automaatne värskendamine"
+

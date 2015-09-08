@@ -1,0 +1,21 @@
+msgid "IDS_ST_BODY_12_HOURS"
+msgstr "12 uur"
+
+msgid "IDS_ST_BUTTON_CANCEL"
+msgstr "Annuleer"
+
+msgid "IDS_BR_OPT_NEVER"
+msgstr "Nooit"
+
+msgid "IDS_ST_BODY_6_HOURS_TMO"
+msgstr "6 uur"
+
+msgid "IDS_ST_BODY_1_HOUR"
+msgstr "1 uur"
+
+msgid "IDS_ST_BODY_3HOURS"
+msgstr "3 uur"
+
+msgid "IDS_BR_HEADER_AUTO_REFRESH"
+msgstr "Autom. vernieuwen"
+
